@@ -1,3 +1,1 @@
-![leonhartX's github stats](https://github-readme-stats.vercel.app/api?username=leonhartX&show_icons=true&theme=radical&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonhartX&theme=radical&count_private=true)](https://github.com/leonhartX/github-readme-stats)
+![leonhartX's github stats](https://github-readme-stats.vercel.app/api?username=leonhartX&show_icons=true&theme=dracula&count_private=true)
